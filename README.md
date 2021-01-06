@@ -8,3 +8,4 @@ Also, you can choose between uppercase letter, lowerecase letters, numbers, and 
 It can be a mix of all four or you can choose just to use one of the criteria. The choice is yours!!!
 
 
+![](Images/screenshot.jpeg)
